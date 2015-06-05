@@ -1,0 +1,42 @@
+//            String[] documentStrings = new Document(new File("emoticonsetwordsandtags.txt")).getDocumentSentences();
+//            for (String string : documentStrings) {
+//                String [] wordAndTag = string.split("\t");
+//                System.out.printf("%s : \n\t %s\n", string, systemInitializer.appSentiWordNet.extract(wordAndTag[0].trim(), wordAndTag[1].trim()));
+//            }
+//            String[] concentrated = {"excitement:a", "excited:n", "excite:a", "excitement:n", "happy:a", "laughed:v","laugh:v","hard:a","tears:n", "tear:n", "cried:v", "cry:v"};
+//            String[] dialated = {"interested:a","interest:a", "grin:n", "tied:v", "cried:v", "cry:v"};
+//
+//            for (String string : concentrated) {
+//                String[] wordAndTag = string.split(":");
+//
+//                HashMap<String, Double> score = systemInitializer.appSentiWordNet.extract(wordAndTag[0].trim(), wordAndTag[1].trim(), true);
+//                if (score != null) {
+//                    double posScore = 1 - Math.pow((1 - score.get("pos")), 2);
+//                    double negScore = 1 - Math.pow((1 - score.get("neg")), 2);
+//                    double objScore = 1 - Math.pow((1 - score.get("obj")), 2);
+//                    System.out.printf("%s: {pos: %s, neg:%s, obj:%s} \n", string, "" + posScore, "" + negScore, "" + objScore);
+//                } else {
+//                    System.out.printf("%s - null \n", string);
+//                }
+//            }
+//
+//            for (String string : dialated) {
+//                String[] wordAndTag = string.split(":");
+//
+//                HashMap<String, Double> score = systemInitializer.appSentiWordNet.extract(wordAndTag[0].trim(), wordAndTag[1].trim(), true);
+//                if (score != null) {
+//                    double posScore = 1 - Math.pow((1 - score.get("pos")), 1 / 2);
+//                    double negScore = 1 - Math.pow((1 - score.get("neg")), 1 / 2);
+//                    double objScore = 1 - Math.pow((1 - score.get("obj")), 1 / 2);
+//                    System.out.printf("%s: {pos: %s, neg:%s, obj:%s} \n", string, "" + posScore, "" + negScore, "" + objScore);
+//                } else {
+//                    System.out.printf("%s - null \n", string);
+//                }
+//            }
+
+
+
+
+
+
+

@@ -1,0 +1,143 @@
+#Emoticon-SentiWordNet version 1.0.0
+# Emoticon-SentiWordNet is based on SentiWordNet
+# For any information about SentiWordNet:
+# Web: http://sentiwordnet.isti.cnr.it
+# each line contains The Part of Speech the emoticon belongs to depending on its usage, The Emoticon itself, its positivity & negativity
+# score as well as usage example.
+# The values PosScore and NegScore, which are the positivity and negativity values of each emoticon. Separated by Tabs
+# pos	emoticon	PosScore	NegScore	description	example
+a	(.V.)	0.0	0.313	alien	he is so alien
+n	(.V.)	0.0	0.25	alien	that is an alien
+n	O:-)	0.031	0.0	angel	that is an angel
+n	O:)	0.031	0.0	angel	look, an angel
+a	O:)	0.417	0.0	angel	she is so angelic
+a	0:-)	0.417	0.0	angel	she is so angelic
+n	~:0	0.018	0.018	baby	she's still a baby
+n	:-D	0.125	0.0	big_grin	I gave a big grin
+v	:-D	0.0	0.0	big_grin	I have a big grin on right now
+n	:D	0.125	0.0	big_grin	I have a big grin on right now
+v	:D	0.0	0.0	big_grin	I have a big grin on right onw
+n	(*v*)	0.025	0.075	bird	that's a bird
+n	=^.^=	0.0	0.016	cat	that is a card
+v	O.o	0.1	0.4	surprised	I am surprised
+v	o_o	0.1	0.4	surprised	I am surprised
+n	*<:o)	0.222	0.278	clown	I love clowns
+a	B-)	0.292	0.146	cool	Be cool
+a	B)	0.292	0.146	cool	Be cool
+v	:_(	0.018	0.178	crying	I can't stop crying 
+v	:'(	0.018	0.178	crying	I can't stop crying
+v	:((	0.018	0.178	crying	I can't stop crying
+v	\:D/	0.0	0.0	party	I love to party
+v	*-*	0.063	0.125	dazed	I am dazed
+v	*_*	0.063	0.125	dazed	I am dazed
+v	@-@	0.063	0.125	dazed	I am dazed
+n	:o3	0.0	0.214	dog	that is a dog
+n	:-(	0.0	0.625	frown	That made me frown
+v	:(	0.0	0.5	frown	I can't stop frowning
+a	:]xx	0.313	0.188	frustrating	This is frustrating
+v	:-p	0.0	0.063	mock	I mocked him
+n	8-)	0.0	0.25	cool	he is so cool
+n	8)	0.0	0.25	cool	he is cool
+a	$_$	0.125	0.083	greedy	he is greedy
+n	$_$	0.00	0.375	greedy	he is a greedy fellow
+n	:->	0.125	0.0	grin	grin
+n	:>	0.125	0.0	grin	grin
+v	:>	0.0	0.0	grin	I'm grinning
+v	:->	0.0	0.0	grin	I'm grinning
+a	=)	0.563	0.0	Happy	I am happy
+a	:-)	0.563	0.0	Happy	I am happy
+a	:)	0.563	0.0	Smile	That made me smile
+n	({})	0.125	0.0	Big_Hug	I was given a Big Hug
+n	{}	0.125	0.0	Big_Hug	I was given a big hug
+a	:-|	0.218	0.444	Indifferent	I'm am indifferent about this situation
+a	:|	0.218	0.444	Indifferent	I'm am indifferent about this situation
+n	x-p	0.531	0.188	joking	He is a joker
+n	:p	0.531	0.188	joking	He is a joker
+v	:-)*	0.0	0.0	kiss	he kissed me
+v	:*	0.0	0.0	kiss	he kissed me
+v	:-*	0.0	0.0	kiss	he kissed me
+n	:-)*	0.031	0.0	kiss	he gave me a kiss
+n	:*	0.031	0.0	kiss	he gave me a kiss
+n	:-*	0.031	0.0	kiss	he gave me a kiss
+n	XD	0.125	0.0	Laugh	he gave a laugh to what was said
+v	XD	0.0	0.0	Laugh	I laughed at him
+a	:(	0.042	0.667	sad	This makes me sad
+a	:c	0.042	0.667	sad	This makes me sad
+a	)-:	0.042	0.667	sad	This makes me sad
+a	:-(	0.042	0.667	sad	this makes me sad
+a	):	0.042	0.667	sad	I felt sad
+v	:)	0.0	0.0	smile	I smiled at him
+v	:-)	0.0	0.0	smile	I smiled at him
+v	(-:	0.0	0.0	smile	I smiled at him
+v	(:	0.0	0.0	smile	I smiled at him
+a	=/	0.25	0.25	mad	he made me mad
+r	~:}	0.292	0.375	madly	I am madly in love with him
+v	:)(:	0.0	0.0	marry	they married each other
+n	~,~	0.0	0.075	nap	I took a nap
+v	~,~	0.0	0.0	nap	I napped
+v	^_^	0.0	0.0	overjoyed	I am overjoyed
+a	:-/	0.125	0.125	perplexed	this perplexed
+a	:/	0.125	0.125	perplex	this perplexed me
+v	:-/	0.063	0.188	perplexed	I am perplexed by this
+v	:/	0.063	0.188	perplex	I am perplexed by this
+v	<|:o	0.0	0.0	party	I like partying
+n	<|:0	0.0	0.0	party	I love to attend a party
+n	@~)~~~	0.0	0.0	rose	he gave me a rose
+v	:-@	0.0	0.0	scream	I screamed
+v	:@	0.0	0.0	scream	I scream 
+n	:-@	0.125	0.125	scream	I let out a scream
+n	:@	0.125	0.125	scream	I let out a scream
+a	:o	0.25	0.0	shock	I'm in shock
+a	:-o	0.25	0.0	shock	I'm in shock
+a	:-0	0.25	0.0	shock	I'm in shock
+a	:0	0.25	0.0	shock	I'm in shock
+a	:=o	0.25	0.0	shock	I'm in shock
+a	:=0	0.25	0.0	shock	I'm in shock
+a	:>	0.25	0.5	smug	I'm looked smug
+v	:p	0.125	0.313	mock	He mocked us
+v	:O	0.042	0.0	surprised	I am surprised
+a	:O	0.125	0.25	surprise	she surprised me
+a	:-O	0.125	0.25	surprise	she surprised me
+a	>:O	0.0	0.625	angry	I am very angry
+a	o_o	0.0	0.625	not interested	I am not interested
+a	:-\	0.167	0.417	hun?	you said what?
+a	:\	0.167	0.417	hun?	you said what?
+n	:-E	0.0	0.0	vampire	that is a vampire
+v	;)	0.094	0.0	wink	he winked at me
+v	;-)	0.094	0.0	wink	he winked at me
+a	|-O	0.188	0.125	bored	I am bored
+a	|-o	0.188	0.125	bored	I am bored
+n	(-_-)zz	0.0	0.0	sleeping	I was sleeping
+n	8-#	0.0	0.0	braces	I removed my braces
+v	(>_<)	0.05	0.45	frustrated	I am frustrated by this
+a	>:(	0.25	0.583	angry	I am very angry
+r	:-||	0.0	0.125	angrily	He stared at me angrily
+a	>:D	0.25	0.75	devil	He is the devil
+n	D:<	0.375	0.375	disgust	This smells disgusting
+a	X-G	0.375	0.125	disgust	this disgusts me
+a	XG	0.375	0.125	disgust	this disgusts me
+v	:$	0.0	0.125	embarrassed	he embarrassed me
+a	:$	0.0	0.75	embarrassing	this is embarrassing
+a	(-_-)	0.0	0.75	ashamed	this made me ashamed
+n	(-_-)	0.0	0.625	shame	I can taste the shame in my mouth
+a	-__-	0.0	0.75	ashamed	this made me ashamed
+n	-__-	0.0	0.625	shame	I can taste the shame in my mouth
+v	((+_+))	0.1	0.4	confused	I am confused
+a	(=_=)	0.125	0.188	tired	this tire me
+a	(?_?)	0.0625	0.375	confusion	this will cause confusion
+a	(?-?)	0.0625	0.375	confusion	this will cause confusion
+a	:&	0.179	0.5	sick	this is just sick
+u	</3	0.163	0.063	heart broken	I am heart broken
+u	3-|	0.018	0.313	not_interested	I am not interested
+u	8-|	0.028	0.026	no_interest	I have no interest
+u	\0/	0.109	0.094	cheer	she cheered
+u	\o/	0.109	0.094	cheer	she cheered
+u	>:-)	0.125	0.271	devilish	she is devilish
+u	>;)	0.125	0.271	devilish	she is devilish
+u	:))	0.406	0.063	laughing	I can not stop laughing
+u	:-))	0.406	0.063	laughing	I can not stop laughing
+u	=D	0.234	0.141	ROTFL	this got me ROTFL
+u	=}}	0.234	0.141	ROTLF	this got me ROTFL
+u	:X	0.016	0.016	lips_sealed	my lips are sealed
+u	:')	0.438	0.25	tears_of_joy	I cried tears of joy
+u	:'-)	0.438	0.25	tears_of_joy	I cried tears of joy

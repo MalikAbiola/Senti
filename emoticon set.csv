@@ -1,0 +1,111 @@
+EMOTICON,ENGLISH MEANING,SENTIMENT VALUE,
+(.V.),Alien,-0.205,-0.205
+O:-),Angel,0.015,0.015
+~:0,Baby,0.000,0.000
+:-D,Big Grin,0.000,0.000
+(*v*),Bird,0.114,0.114
+:-#,Braces,-0.068,-0.068
+</3,Broken Heart,-0.125,-0.125
+=^.^=,Cat,-0.070,-0.070
+O.o,Confused,-0.015,-0.015
+*<:o),Clown,0.000,0.000
+B-),Cool,-0.075,-0.075
+:_(,Crying,0.000,NaN
+:'(,Crying,0.000,0.000
+\:D/,Dancing,0.000,0.000
+*-*,Dazed,0.000,0.000
+:o3,Dog,0.000,0.000
+#-o,Doh!,-0.193,-0.193
+:*),Drunk,0.000,NaN
+//_^,Emo,0.000,0.000
+>:),Evil Grin,0.000,NaN
+<><,Fish,-0.233,-0.233
+:-(,Frown,0.000,0.000
+:(,Frown,-0.625,-0.625
+:-P,Frustrated,-0.625,-0.625
+8-),nerd,0.000,0.000
+$_$,Greedy,-0.333,-0.333
+:->,Grin,0.034,0.034
+=),Happy,0.125,0.125
+:-),Happy,0.695,0.695
+:),Happy,0.695,0.695
+<3,Heart,0.695,0.695
+{},Hug,0.017,0.017
+:-|,Indifferent,0.125,0.125
+X-p,Joking,-0.237,-0.237
+:-)*,Kiss,0.000,0.000
+:-*,Kiss,0.000,0.000
+(-}{-),Kissing,0.000,0.000
+({}),Big Hug,0.000,0.000
+XD,Laughing,0.114,0.114
+:D,Laughing Out Loud,0.000,0.000
+)-:,Sad,0.000,0.000
+(-:,Smile,-0.591,-0.591
+=/,Mad,0.125,0.125
+:-)(-:,Married,-0.005,-0.005
+~_~,Napping,0.000,0.000
+:-B,Nerd,0.000,0.000
+^_^,Overjoyed,-0.333,-0.333
+:-/,Perplexed,0.000,0.000
+<l:0,Partying,0.000,0.000
+@~)~~~~,Rose,0.000,0.000
+:-@,Screaming,0.000,0.000
+:=O,Shocked,0.000,0.000
+:-o,Shocked,0.000,0.000
+:-Q,Smoking,0.000,0.000
+:>,Smug,0.000,0.000
+:p,mocking,0.000,NaN
+:o,surprised,0.000,0.000
+:-J,Tongue in Cheek,-0.125,-0.125
+:-&,Tongue Tied,-0.009,-0.013
+:-\,Undecided,0.002,0.002
+:-E,Vampire,-0.341,-0.341
+#NAME?,Very Happy,0.000,0.000
+;-),Winking,0.389,0.389
+;),Winking,0.000,0.000
+|-O,Yawn,0.000,0.000
+8-#,Zombie,0.000,NaN
+(>_<),Troubled,0.000,0.000
+:-)),Very Happy,-0.833,-0.833
+:-c,Sad,0.389,0.389
+:-<,Sad,-0.591,-0.591
+>:(,Angry,-0.591,-0.591
+:-||,Angry,0.000,0.000
+:'-),Tears of happiness,0.000,0.000
+:'),Tears of happiness,0.236,0.354
+D:<,Disgust,0.236,0.354
+O_O,surprised,-0.250,-0.250
+>:O,surprised,-0.125,-0.125
+O-O,surprised,-0.125,-0.125
+:*,Kiss,-0.125,-0.125
+:$,Embarrassed,0.000,0.000
+:-X,Lips sealed,0.000,0.000
+:|,Straight Face,0.000,0.000
+:X,Lips sealed,-0.100,-0.100
+:#,Lips sealed,0.000,0.000
+>;),Evil,0.000,0.000
+>:-),Evil,-0.591,-0.591
+}:-),Devilish,-0.591,-0.591
+}:),Devilish,0.000,0.000
+3:-),Devilish,0.000,0.000
+3:),Devilish,0.000,0.000
+|;-),Cool,0.000,0.000
+<:-|,Dumb,0.000,NaN
+\o/,Cheer,-0.270,-0.270
+*<|:-),Santa Clause,-0.083,-0.083
+(-_-)zzz,Sleeping,0.125,0.125
+((+_+)),Confused,0.000,0.000
+(^_^;)?,Nervous,0.000,0.000
+(-_-;)?,embarrassed,-0.115,-0.115
+(~_~;)?,troubled,0.000,0.000
+(?_?;)?,sweat drop,-0.833,-0.833
+(??;),sweat drop,0.030,0.030
+(-.-)?,Shame,0.030,0.030
+(-_-),Shame,-0.659,-0.659
+(=_=),Tired,-0.659,-0.659
+(._.),Looking Down,0.042,0.042
+(?_?),Confusion,-0.044,-0.044
+((d[-_-]b)),Not Listening,-0.260,-0.260
+?-(,Black Eye,-0.313,-0.313
+:-(*),Sick,-0.098,-0.098
+X-(,Angry,-0.437,-0.437
